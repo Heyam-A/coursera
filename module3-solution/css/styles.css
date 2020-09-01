@@ -1,0 +1,44 @@
+a {
+  text-align: center;
+  size: 100%;
+  text-emphasis-color: pink
+}
+
+#nav-list {
+  background-color: #b19cd9;
+
+}
+
+#nav-list a:hover {
+  background: #FFB6C1;
+}
+.container {
+ position: relative;
+ top:60px;
+ margin: 20px;
+ padding: 20px ;
+ text-align: center;
+ margin: auto;
+ overflow: auto;
+
+}
+.row {
+  width: 100%;
+}
+
+
+p{
+  background-position: center;
+  background-color: Lightgray;
+  background-size: cover;
+  margin: auto;
+  overflow: auto;
+
+}
+
+div p {
+  margin: 20px;
+  padding: 20px;
+  overflow: auto;
+
+}
